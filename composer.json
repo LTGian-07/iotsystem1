@@ -1,0 +1,14 @@
+{
+    "require": {
+        "php": "^8.2",
+        "mongodb/mongodb": "^2.0" 
+    },
+    "config": {
+        "platform": {
+            "php": "8.2.0"
+        },
+        "allow-plugins": {
+            "mongodb/mongodb-php-library": true
+        }
+    }
+}
